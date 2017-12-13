@@ -1,2 +1,3 @@
-# test1234
-Test site for Fall 2017 Period 2 12/04/17
+# Video Game Consoles
+This is a website talking about my experience with my past video consoles.
+
